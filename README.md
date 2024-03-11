@@ -15,7 +15,7 @@
     <td width="50%" valign="top">
               <ul>
             <li>🌱 I’m currently learning <strong>React, Node.js, and Laravel</strong></li>
-            <li>👨‍💻 All of my projects are available at <a href="http://portfolio.com">portfolio.com</a></li>
+            <li>👨‍💻 All of my projects are available at <a href="https://monportfolio-dusky.vercel.app/">portfolio.com</a></li>
             <li>📫 How to reach me: <strong>redayahyapro@gmail.com</strong></li>
         </ul>
     </td>
