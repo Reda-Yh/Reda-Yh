@@ -1,13 +1,14 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Reda-Yh.Reda-Yh">
 
-<h1 align="center">
+<h2>
+  <p align="center" size=30>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Reda+Yahya....;Nice+to+meet+you!&center=true&size=30&color=007BFF&font-weight=bold;">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Reda+Yahya....;Nice+to+meet+you!&center=true&size=30&color=000000&font-weight=bold;">
   </a>
-</h1>
-
-<h1 align="center">Hi 👋, I'm Reda Yahya</h1>
-<h3 align="center">A passionate fullstack developer from Morocco</h3>
+</p>
+<p align="center">Hi 👋, I'm Reda Yahya</p>
+<p align="center">A passionate fullstack developer from Morocco</p>
+</h2>
 
 <table border="0">
  <tr>
