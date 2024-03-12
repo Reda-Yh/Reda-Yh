@@ -192,3 +192,7 @@
 </p>
 
 <hr>
+
+[![An image of @redayh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/redayh)](https://holopin.io/@redayh)
+
+<h1 align="center">Show some ❤️ by starring some of the repositories!</h1>
